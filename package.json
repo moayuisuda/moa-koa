@@ -1,0 +1,14 @@
+{
+  "name": "moa-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "moayuisuda",
+  "license": "MIT"
+}
